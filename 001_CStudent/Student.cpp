@@ -19,5 +19,5 @@ void CStudent::display()
 {
 	float average = avg();
 	cout << "姓名:" << name << endl << "年龄:" << age << endl;
-	cout << "平均分:" << average;
+	cout << "平均分:" << average<<endl;
 }
